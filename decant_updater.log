@@ -1,0 +1,639 @@
+2026-07-06 19:51:56,925  INFO     ============================================================
+2026-07-06 19:51:56,926  INFO     Decant price updater started
+2026-07-06 19:51:57,155  INFO     Found 226 main products with decants
+2026-07-06 19:51:57,156  INFO     First run — calculating all decant prices
+2026-07-06 19:51:57,156  INFO     226 product(s) need decant updates
+2026-07-06 19:51:57,284  INFO       080062 (Chanel Allure homme sport decant 10ml): 40,500,000 -> 42,500,000
+2026-07-06 19:51:57,351  INFO       080063 (Chanel Allure homme sport decant 5ml): 21,500,000 -> 22,500,000
+2026-07-06 19:51:57,422  INFO       080514 (Chanel Allure homme sport decant 3ml): 13,500,000 -> 14,000,000
+2026-07-06 19:51:57,489  INFO       080799 (Chanel Allure homme sport decant 20ml): 77,000,000 -> 81,500,000
+2026-07-06 19:51:57,494  INFO       Main [010001]             N/A ->     386,500,000  (4 decants updated)
+2026-07-06 19:51:57,566  INFO       080136 (Hermes Twilly decant 10ml): 24,000,000 -> 24,500,000
+2026-07-06 19:51:57,632  INFO       080137 (Hermes Twilly decant 5ml): 12,500,000 -> 13,000,000
+2026-07-06 19:51:57,703  INFO       080690 (Hermes Twilly decant 20ml): 46,500,000 -> 46,000,000
+2026-07-06 19:51:57,709  INFO       Main [010002]             N/A ->     186,500,000  (3 decants updated)
+2026-07-06 19:51:57,780  INFO       080191 (Lalique White decant 10ml): 5,000,000 -> 5,500,000
+2026-07-06 19:51:57,851  INFO       080631 (Lalique White decant 20ml): 10,500,000 -> 10,000,000
+2026-07-06 19:51:57,857  INFO       Main [010011]             N/A ->      59,500,000  (2 decants updated)
+2026-07-06 19:51:57,936  INFO       080187 (Lalique Lamour decant 10ml): 7,000,000 -> 7,500,000
+2026-07-06 19:51:58,030  INFO       080628 (Lalique Lamour decant 20ml): 14,000,000 -> 14,500,000
+2026-07-06 19:51:58,035  INFO       Main [010013]             N/A ->      68,500,000  (2 decants updated)
+2026-07-06 19:51:58,042  INFO       Main [010014]             N/A ->      50,500,000  (0 decants updated)
+2026-07-06 19:51:58,113  INFO       080185 (Lalique Encre noire extreme decant 10ml): 8,500,000 -> 8,000,000
+2026-07-06 19:51:58,178  INFO       080626 (Lalique Encre noire extreme decant 20ml): 16,000,000 -> 15,000,000
+2026-07-06 19:51:58,183  INFO       Main [010015]             N/A ->      71,500,000  (2 decants updated)
+2026-07-06 19:51:58,254  INFO       080463 (Elie Saab Le parfum edp decant 10ml): 16,500,000 -> 17,000,000
+2026-07-06 19:51:58,323  INFO       080464 (Elie Saab Le parfum edp decant 5ml): 8,500,000 -> 9,000,000
+2026-07-06 19:51:58,392  INFO       080608 (Elie saab Le parfum edp decant 20ml): 31,500,000 -> 32,500,000
+2026-07-06 19:51:58,400  INFO       Main [010024]             N/A ->     138,500,000  (3 decants updated)
+2026-07-06 19:51:58,470  INFO       080606 (Diesel Bad decant 20ml): 20,500,000 -> 19,000,000
+2026-07-06 19:51:58,475  INFO       Main [010035]             N/A ->      89,500,000  (1 decants updated)
+2026-07-06 19:51:58,547  INFO       080677 (Chanel Chance eau vive edt decant 20ml): 91,000,000 -> 90,500,000
+2026-07-06 19:51:58,551  INFO       Main [010040001]             N/A ->     430,000,000  (1 decants updated)
+2026-07-06 19:51:58,617  INFO       080620 (Hugo boss Ma vie decant 20ml): 21,500,000 -> 21,000,000
+2026-07-06 19:51:58,622  INFO       Main [010055]             N/A ->      74,000,000  (1 decants updated)
+2026-07-06 19:51:58,693  INFO       010070001 (Versace Eros pour femme edp decant 20ml): 33,000,000 -> 32,500,000
+2026-07-06 19:51:58,697  INFO       Main [010059]             N/A ->     153,500,000  (1 decants updated)
+2026-07-06 19:51:58,768  INFO       080779 (Armani Power of you edp decant 10ml): 32,500,000 -> 34,000,000
+2026-07-06 19:51:58,835  INFO       080780 (Armani Power of you edp decant 5ml): 17,000,000 -> 17,500,000
+2026-07-06 19:51:58,905  INFO       080793 (Armani Power of you edp decant 20ml): 62,000,000 -> 64,500,000
+2026-07-06 19:51:58,910  INFO       Main [010060001]             N/A ->     275,000,000  (3 decants updated)
+2026-07-06 19:51:58,979  INFO       080854 (Versace dylan blue homme decant 20ml): 28,500,000 -> 28,000,000
+2026-07-06 19:51:58,984  INFO       Main [010061]             N/A ->     133,500,000  (1 decants updated)
+2026-07-06 19:51:59,052  INFO       080382 (Versace Pour homme edt decant 5ml): 7,500,000 -> 7,000,000
+2026-07-06 19:51:59,119  INFO       080650 (Versace Pour homme edt decant 20ml): 26,500,000 -> 26,000,000
+2026-07-06 19:51:59,124  INFO       Main [010062]             N/A ->     122,000,000  (2 decants updated)
+2026-07-06 19:51:59,131  INFO       Main [010067]             N/A ->     218,500,000  (0 decants updated)
+2026-07-06 19:51:59,202  INFO       080100 (Dior Sauvage edp decant 10ml): 35,500,000 -> 36,500,000
+2026-07-06 19:51:59,269  INFO       080682 (Dior Sauvage edp decant 20ml): 68,500,000 -> 69,500,000
+2026-07-06 19:51:59,274  INFO       Main [010084]             N/A ->     329,500,000  (2 decants updated)
+2026-07-06 19:51:59,345  INFO       080064 (Chanel Bleu edp decant 10ml): 46,000,000 -> 47,000,000
+2026-07-06 19:51:59,414  INFO       080065 (Chanel Bleu edp decant 5ml): 24,000,000 -> 24,500,000
+2026-07-06 19:51:59,481  INFO       080515 (Chanel Bleu edp decant 3ml): 15,000,000 -> 15,500,000
+2026-07-06 19:51:59,552  INFO       080676 (Chanel Bleu edp decant 20ml): 88,000,000 -> 89,500,000
+2026-07-06 19:51:59,556  INFO       Main [010090]             N/A ->     424,500,000  (4 decants updated)
+2026-07-06 19:51:59,623  INFO       080781 (YSL Libre berry crush edp decant 10ml): 33,000,000 -> 34,500,000
+2026-07-06 19:51:59,692  INFO       080782 (YSL Libre berry crush edp decant 5ml): 17,500,000 -> 18,000,000
+2026-07-06 19:51:59,761  INFO       080857 (YSL Libre berry crush edp decant 20ml): 63,500,000 -> 65,500,000
+2026-07-06 19:51:59,766  INFO       Main [010090001]             N/A ->     279,000,000  (3 decants updated)
+2026-07-06 19:51:59,845  INFO       080066 (Chanel Coco edp decant 10ml): 53,500,000 -> 53,000,000
+2026-07-06 19:51:59,920  INFO       080678 (Chanel Coco edp decant 20ml): 102,000,000 -> 101,500,000
+2026-07-06 19:51:59,924  INFO       Main [010097]             N/A ->     482,500,000  (2 decants updated)
+2026-07-06 19:51:59,996  INFO       080444 (Kenzo Homme edp decant 10ml): 13,000,000 -> 12,500,000
+2026-07-06 19:52:00,077  INFO       080445 (Kenzo Homme edp decant 5ml): 70,000,000 -> 6,500,000
+2026-07-06 19:52:00,140  INFO       080623 (Kenzo Homme edp decant 20ml): 25,000,000 -> 23,500,000
+2026-07-06 19:52:00,148  INFO       Main [01010001]             N/A ->     123,500,000  (3 decants updated)
+2026-07-06 19:52:00,155  INFO       Main [01010008]             N/A ->     125,000,000  (0 decants updated)
+2026-07-06 19:52:00,164  INFO       Main [010106]             N/A ->     199,000,000  (0 decants updated)
+2026-07-06 19:52:00,235  INFO       080054 (Casamorati Bouquet ideale decant 10ml): 39,500,000 -> 40,500,000
+2026-07-06 19:52:00,302  INFO       080055 (Casamorati Bouquet ideale decant 5ml): 20,500,000 -> 21,000,000
+2026-07-06 19:52:00,369  INFO       080510 (Casamorati bouquet ideale 3ml): 13,000,000 -> 13,500,000
+2026-07-06 19:52:00,441  INFO       080672 (Casamorati Bouquet ideale decant 20ml): 75,500,000 -> 77,000,000
+2026-07-06 19:52:00,446  INFO       Main [010109]             N/A ->     366,500,000  (4 decants updated)
+2026-07-06 19:52:00,517  INFO       080068 (CK Euphoria edp woman decant 10ml): 10,000,000 -> 10,500,000
+2026-07-06 19:52:00,583  INFO       080597 (CK Euphoria edp woman decant 20ml): 20,500,000 -> 19,500,000
+2026-07-06 19:52:00,587  INFO       Main [010129]             N/A ->      92,500,000  (2 decants updated)
+2026-07-06 19:52:00,652  INFO       080735 (CK Euphoria homme edt decant 10ml): 8,500,000 -> 7,500,000
+2026-07-06 19:52:00,727  INFO       080736 (CK Euphoria homme edt decant 5ml): 4,500,000 -> 4,000,000
+2026-07-06 19:52:00,794  INFO       080801 (CK Euphoria homme edt decant 20ml): 16,000,000 -> 14,000,000
+2026-07-06 19:52:00,798  INFO       Main [010131]             N/A ->      66,500,000  (3 decants updated)
+2026-07-06 19:52:00,870  INFO       080592 (Mercedes benz Man private decant 20ml): 20,500,000 -> 20,000,000
+2026-07-06 19:52:00,875  INFO       Main [010143]             N/A ->      94,500,000  (1 decants updated)
+2026-07-06 19:52:00,945  INFO       080397 (Ysl Libre edp decant 10ml): 28,500,000 -> 29,500,000
+2026-07-06 19:52:01,012  INFO       080398 (Ysl Libre edp decant 5ml): 15,000,000 -> 15,500,000
+2026-07-06 19:52:01,081  INFO       080651 (Ysl Libre edp decant 20ml): 55,000,000 -> 56,000,000
+2026-07-06 19:52:01,086  INFO       Main [010145]             N/A ->     239,000,000  (3 decants updated)
+2026-07-06 19:52:01,160  INFO       080622 (Jennifer lopez Still decant 20ml): 14,000,000 -> 13,500,000
+2026-07-06 19:52:01,165  INFO       Main [010146]             N/A ->      64,000,000  (1 decants updated)
+2026-07-06 19:52:01,171  INFO       Main [010147]             N/A ->     129,500,000  (0 decants updated)
+2026-07-06 19:52:01,239  INFO       080447 (Dior Homme intense decant 5ml): 20,500,000 -> 21,000,000
+2026-07-06 19:52:01,312  INFO       080448 (Dior Homme intense decant 10ml): 39,000,000 -> 40,000,000
+2026-07-06 19:52:01,381  INFO       080607 (Dior Homme intense decant 20ml): 75,000,000 -> 76,500,000
+2026-07-06 19:52:01,449  INFO       080705 (Dior Homme intense decant 3ml): 13,000,000 -> 13,500,000
+2026-07-06 19:52:01,454  INFO       Main [010153]             N/A ->     364,000,000  (4 decants updated)
+2026-07-06 19:52:01,520  INFO       080638 (Montblanc Explorer edp decant 20ml): 27,500,000 -> 27,000,000
+2026-07-06 19:52:01,524  INFO       Main [010157]             N/A ->     128,500,000  (1 decants updated)
+2026-07-06 19:52:01,596  INFO       080056 (Casamorati Gran ballo decant 10ml): 39,500,000 -> 40,500,000
+2026-07-06 19:52:01,663  INFO       080057 (Casamorati Gran ballo decant 5ml): 20,500,000 -> 21,000,000
+2026-07-06 19:52:01,727  INFO       080511 (Casamorati gran ballo 3ml): 13,000,000 -> 13,500,000
+2026-07-06 19:52:01,793  INFO       080673 (Casamorati Gran ballo decant 20ml): 75,500,000 -> 77,000,000
+2026-07-06 19:52:01,800  INFO       Main [010160]             N/A ->     366,500,000  (4 decants updated)
+2026-07-06 19:52:01,875  INFO       080060 (Casamorati Mefisto gentiluomo decant 10ml): 39,500,000 -> 40,500,000
+2026-07-06 19:52:01,944  INFO       080061 (Casamorati Mefisto gentiluomo decant 5ml): 20,500,000 -> 21,000,000
+2026-07-06 19:52:02,014  INFO       080513 (Casamorati mefisto gentiluomo 3ml): 13,000,000 -> 13,500,000
+2026-07-06 19:52:02,083  INFO       080675 (Casamorati Mefiesto gentiluomo decant 20ml): 75,500,000 -> 77,000,000
+2026-07-06 19:52:02,090  INFO       Main [010161]             N/A ->     366,500,000  (4 decants updated)
+2026-07-06 19:52:02,196  INFO       080118 (Gucci Bloom edp decant 10ml): 18,000,000 -> 18,500,000
+2026-07-06 19:52:02,201  INFO       Main [010170]             N/A ->     166,500,000  (1 decants updated)
+2026-07-06 19:52:02,208  INFO       Main [010185]             N/A ->     297,500,000  (0 decants updated)
+2026-07-06 19:52:02,274  INFO       080186 (Lalique Encre noire sport decant 10ml): 6,000,000 -> 7,000,000
+2026-07-06 19:52:02,344  INFO       080627 (Lalique Encre noire sport decant 20ml): 12,000,000 -> 13,000,000
+2026-07-06 19:52:02,348  INFO       Main [01020001]             N/A ->      61,500,000  (2 decants updated)
+2026-07-06 19:52:02,419  INFO       080632 (Lalique White in black decant 20ml): 13,500,000 -> 13,000,000
+2026-07-06 19:52:02,424  INFO       Main [01020002]             N/A ->      76,500,000  (1 decants updated)
+2026-07-06 19:52:02,492  INFO       080577 (Lalique Satine decant 5ml): 4,000,000 -> 4,500,000
+2026-07-06 19:52:02,498  INFO       Main [01020003]             N/A ->      72,500,000  (1 decants updated)
+2026-07-06 19:52:02,567  INFO       080624 (Lalique Amethyst exquise edp decant 20ml): 16,000,000 -> 15,500,000
+2026-07-06 19:52:02,571  INFO       Main [01020007]             N/A ->      72,500,000  (1 decants updated)
+2026-07-06 19:52:02,639  INFO       080401 (Ysl Mon paris decant 10ml): 28,000,000 -> 29,000,000
+2026-07-06 19:52:02,708  INFO       080858 (Ysl mon paris decant 20ml): 54,000,000 -> 55,000,000
+2026-07-06 19:52:02,713  INFO       Main [010202]             N/A ->     236,000,000  (2 decants updated)
+2026-07-06 19:52:02,785  INFO       080096 (Dior Jador edp decant 10ml): 40,500,000 -> 42,500,000
+2026-07-06 19:52:02,851  INFO       080097 (Dior Jador edp decant 5ml): 21,500,000 -> 22,500,000
+2026-07-06 19:52:02,920  INFO       080521 (Dior Jador edp decant 3ml): 13,500,000 -> 14,000,000
+2026-07-06 19:52:02,988  INFO       080680 (Dior Jador edp decant 20ml): 77,500,000 -> 81,000,000
+2026-07-06 19:52:02,995  INFO       Main [010206]             N/A ->     384,500,000  (4 decants updated)
+2026-07-06 19:52:03,002  INFO       Main [010214]             N/A ->     116,500,000  (0 decants updated)
+2026-07-06 19:52:03,009  INFO       Main [010217]             N/A ->     139,500,000  (0 decants updated)
+2026-07-06 19:52:03,088  INFO       080615 (Halloween Man x decant 20ml): 14,500,000 -> 14,000,000
+2026-07-06 19:52:03,094  INFO       Main [010220]             N/A ->      81,500,000  (1 decants updated)
+2026-07-06 19:52:03,175  INFO       080194 (Lancome La vie est belle edp decant 10ml): 27,000,000 -> 28,000,000
+2026-07-06 19:52:03,260  INFO       080195 (Lancome La vie est belle edp decant 5ml): 14,000,000 -> 14,500,000
+2026-07-06 19:52:03,330  INFO       080822 (Lancome La vie est belle edp decant 20ml): 51,500,000 -> 53,000,000
+2026-07-06 19:52:03,336  INFO       Main [010225]             N/A ->     188,500,000  (3 decants updated)
+2026-07-06 19:52:03,416  INFO       080403 (Ysl Y edp decant 10ml): 25,000,000 -> 25,500,000
+2026-07-06 19:52:03,520  INFO       080404 (Ysl Y edp decant 5ml): 13,000,000 -> 13,500,000
+2026-07-06 19:52:03,619  INFO       080652 (Ysl Y edp decant 20ml): 47,500,000 -> 48,500,000
+2026-07-06 19:52:03,624  INFO       Main [010232]             N/A ->     229,500,000  (3 decants updated)
+2026-07-06 19:52:03,715  INFO       080370 (Versace Crystal noir edp decant 10ml): 17,500,000 -> 18,000,000
+2026-07-06 19:52:03,721  INFO       Main [010241]             N/A ->     144,000,000  (1 decants updated)
+2026-07-06 19:52:03,729  INFO       Main [010259]             N/A ->     144,500,000  (0 decants updated)
+2026-07-06 19:52:03,806  INFO       080570 (Halloween Woman edt decant 5ml): 4,000,000 -> 3,500,000
+2026-07-06 19:52:03,878  INFO       080618 (Halloween Woman edt decant 20ml): 13,500,000 -> 13,000,000
+2026-07-06 19:52:03,883  INFO       Main [010260]             N/A ->      60,500,000  (2 decants updated)
+2026-07-06 19:52:03,956  INFO       080863 (V&R spice bomb decant 20ml): 35,000,000 -> 34,500,000
+2026-07-06 19:52:03,961  INFO       Main [010272]             N/A ->     146,500,000  (1 decants updated)
+2026-07-06 19:52:03,970  INFO       Main [010274]             N/A ->     588,000,000  (0 decants updated)
+2026-07-06 19:52:04,045  INFO       080408 (Paco rabanne Olympea edp decant 10ml): 21,500,000 -> 22,000,000
+2026-07-06 19:52:04,113  INFO       080841 (Paco rabanne Olympea edp decant 20ml): 41,500,000 -> 42,000,000
+2026-07-06 19:52:04,118  INFO       Main [010285]             N/A ->     158,500,000  (2 decants updated)
+2026-07-06 19:52:04,125  INFO       Main [010297]             N/A ->      67,500,000  (0 decants updated)
+2026-07-06 19:52:04,198  INFO       080534 (Parfums de marly Greenley decant 3ml): 16,000,000 -> 15,500,000
+2026-07-06 19:52:04,202  INFO       Main [010299]             N/A ->     538,500,000  (1 decants updated)
+2026-07-06 19:52:04,277  INFO       080134 (Hermes Barenia decant 10ml): 22,000,000 -> 23,000,000
+2026-07-06 19:52:04,351  INFO       080135 (Hermes Barenia decant 5ml): 11,500,000 -> 12,000,000
+2026-07-06 19:52:04,424  INFO       080619 (Hermes Barenia decant 20ml): 42,500,000 -> 44,000,000
+2026-07-06 19:52:04,431  INFO       Main [01030013]             N/A ->     209,500,000  (3 decants updated)
+2026-07-06 19:52:04,507  INFO       080848 (Salvatore ferragamo F black decant 20ml): 16,000,000 -> 15,000,000
+2026-07-06 19:52:04,514  INFO       Main [010304]             N/A ->      71,500,000  (1 decants updated)
+2026-07-06 19:52:04,590  INFO       080020 (Armani My way decant 10ml): 26,000,000 -> 27,000,000
+2026-07-06 19:52:04,678  INFO       080584 (Armani My way decant 20ml): 50,500,000 -> 51,000,000
+2026-07-06 19:52:04,687  INFO       Main [010308]             N/A ->     218,500,000  (2 decants updated)
+2026-07-06 19:52:04,778  INFO       080074 (D&G King edp decant 10ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:04,882  INFO       080602 (D&G king edp decant 20ml): 30,500,000 -> 31,500,000
+2026-07-06 19:52:04,888  INFO       Main [010331]             N/A ->     148,500,000  (2 decants updated)
+2026-07-06 19:52:04,898  INFO       Main [010344]             N/A ->     104,500,000  (0 decants updated)
+2026-07-06 19:52:05,001  INFO       080812 (Issey miyake Nuit dissey parfum decant 20ml): 23,000,000 -> 22,500,000
+2026-07-06 19:52:05,005  INFO       Main [010345]             N/A ->     134,500,000  (1 decants updated)
+2026-07-06 19:52:05,013  INFO       Main [010354]             N/A ->     298,000,000  (0 decants updated)
+2026-07-06 19:52:05,126  INFO       080098 (Dior Miss dior edp 2021 decant 10ml): 41,500,000 -> 43,000,000
+2026-07-06 19:52:05,218  INFO       080099 (Dior Miss dior edp 2021 decant 5ml): 22,000,000 -> 22,500,000
+2026-07-06 19:52:05,292  INFO       080522 (Dior Miss dior edp decant 3ml): 13,500,000 -> 14,000,000
+2026-07-06 19:52:05,370  INFO       080681 (Dior Miss dior edp decant 20ml): 79,500,000 -> 81,500,000
+2026-07-06 19:52:05,375  INFO       Main [01050014]             N/A ->     387,500,000  (4 decants updated)
+2026-07-06 19:52:05,464  INFO       080102 (Dior Sauvage elixir decant 10ml): 52,000,000 -> 53,000,000
+2026-07-06 19:52:05,543  INFO       080103 (Dior Sauvage elixir decant 5ml): 27,500,000 -> 28,000,000
+2026-07-06 19:52:05,622  INFO       080683 (Dior Sauvage elixir decant 20ml): 100,000,000 -> 101,500,000
+2026-07-06 19:52:05,631  INFO       Main [01050020]             N/A ->     482,500,000  (3 decants updated)
+2026-07-06 19:52:05,720  INFO       080018 (Armani Code parfum 2022 decant 10ml): 22,500,000 -> 24,000,000
+2026-07-06 19:52:05,818  INFO       080019 (Armani Code parfum 2022 decant 5ml): 12,000,000 -> 12,500,000
+2026-07-06 19:52:05,892  INFO       080583 (Armani Code parfum decant 20ml): 43,500,000 -> 45,500,000
+2026-07-06 19:52:05,898  INFO       Main [01060013]             N/A ->     268,500,000  (3 decants updated)
+2026-07-06 19:52:05,978  INFO       080754 (Armani Stronger with you absolutely decant 10ml): 22,000,000 -> 23,000,000
+2026-07-06 19:52:06,047  INFO       080755 (Armani Stronger with you absolutely decant 5ml): 11,500,000 -> 12,000,000
+2026-07-06 19:52:06,125  INFO       080794 (Armani Stronger with you absolutely decant 20ml): 42,500,000 -> 43,500,000
+2026-07-06 19:52:06,135  INFO       Main [01060015]             N/A ->     206,500,000  (3 decants updated)
+2026-07-06 19:52:06,216  INFO       080461 (Armani Stronger with you intensely decant 10ml): 21,000,000 -> 22,000,000
+2026-07-06 19:52:06,313  INFO       080462 (Armani Stronger with you intensely decant 5ml): 11,000,000 -> 11,500,000
+2026-07-06 19:52:06,407  INFO       080585 (Armani Stronger with you intensely decant 20ml): 40,000,000 -> 42,000,000
+2026-07-06 19:52:06,412  INFO       Main [01060018]             N/A ->     198,500,000  (3 decants updated)
+2026-07-06 19:52:06,504  INFO       080777 (Fragrance du bois Tropiques parfum decant 10ml): 82,500,000 -> 83,000,000
+2026-07-06 19:52:06,600  INFO       080804 (Fragrance du bois Tropiques parfum decant 20ml): 157,500,000 -> 158,500,000
+2026-07-06 19:52:06,692  INFO       080805 (Fragrance du bois Tropiques parfum decant 3ml): 27,000,000 -> 27,500,000
+2026-07-06 19:52:06,697  INFO       Main [010800001]             N/A ->     754,000,000  (3 decants updated)
+2026-07-06 19:52:06,795  INFO       080399 (Ysl Libre intense decant 10ml): 31,000,000 -> 32,500,000
+2026-07-06 19:52:06,891  INFO       080400 (Ysl Libre intense decant 5ml): 16,500,000 -> 17,000,000
+2026-07-06 19:52:06,967  INFO       080695 (Ysl Libre intense decant 20ml): 59,500,000 -> 62,500,000
+2026-07-06 19:52:06,974  INFO       Main [01090013]             N/A ->     266,500,000  (3 decants updated)
+2026-07-06 19:52:07,058  INFO       080395 (Ysl Black opium over red decant 10ml): 30,000,000 -> 30,500,000
+2026-07-06 19:52:07,154  INFO       080396 (Ysl Black opium over red decant 5ml): 15,500,000 -> 16,000,000
+2026-07-06 19:52:07,251  INFO       080856 (Ysl black opium over red decant 20ml): 57,500,000 -> 58,500,000
+2026-07-06 19:52:07,257  INFO       Main [01090020]             N/A ->     249,500,000  (3 decants updated)
+2026-07-06 19:52:07,350  INFO       080783 (JPG Divine edp decant 10ml): 36,500,000 -> 38,000,000
+2026-07-06 19:52:07,436  INFO       080784 (JPG Divine edp decant 5ml): 19,000,000 -> 20,000,000
+2026-07-06 19:52:07,517  INFO       080817 (JPG Divine edp decant 20ml): 68,500,000 -> 72,000,000
+2026-07-06 19:52:07,529  INFO       Main [010950001]             N/A ->     343,000,000  (3 decants updated)
+2026-07-06 19:52:07,623  INFO       080721 (Simone andreoli Dont ask me permission decant 20ml): 63,500,000 -> 62,500,000
+2026-07-06 19:52:07,628  INFO       Main [01110002]             N/A ->     298,000,000  (1 decants updated)
+2026-07-06 19:52:07,715  INFO       080310 (Simone Andreoli Eterno decant 5ml): 20,500,000 -> 20,000,000
+2026-07-06 19:52:07,803  INFO       080707 (Simone andreoli Eterno decant 3ml): 13,000,000 -> 12,500,000
+2026-07-06 19:52:07,807  INFO       Main [01110005]             N/A ->     348,000,000  (2 decants updated)
+2026-07-06 19:52:07,884  INFO       080314 (Simone andreoli Ocean of midnighte moon decant 5ml): 20,500,000 -> 20,000,000
+2026-07-06 19:52:07,972  INFO       080693 (Simone andreoli Ocean of midnighte moon decant 20ml): 74,000,000 -> 73,000,000
+2026-07-06 19:52:08,059  INFO       080708 (Simone andreoli Ocean of midnighte moon decant 3ml): 13,000,000 -> 12,500,000
+2026-07-06 19:52:08,065  INFO       Main [01110010]             N/A ->     348,000,000  (3 decants updated)
+2026-07-06 19:52:08,159  INFO       080321 (Simone andreoli Vicebomb decant 10ml): 1,400,000 -> 1,500,000
+2026-07-06 19:52:08,241  INFO       080322 (Simone andreoli Vicebomb decant 5ml): 700,000 -> 1,000,000
+2026-07-06 19:52:08,246  INFO       Main [01110012]             N/A ->      14,000,000  (2 decants updated)
+2026-07-06 19:52:08,333  INFO       080230 (Parfums de marly Haltane decant 10ml): 58,000,000 -> 57,000,000
+2026-07-06 19:52:08,446  INFO       080231 (Parfums de marly Haltane decant 5ml): 30,500,000 -> 30,000,000
+2026-07-06 19:52:08,542  INFO       080535 (Parfums de marly Haltane decant 3ml): 19,000,000 -> 18,500,000
+2026-07-06 19:52:08,548  INFO       Main [01120001]             N/A ->     645,500,000  (3 decants updated)
+2026-07-06 19:52:08,558  INFO       Main [01120002]             N/A ->     668,500,000  (0 decants updated)
+2026-07-06 19:52:08,649  INFO       080691 (Parfums de marly Valaya decant 20ml): 159,000,000 -> 158,500,000
+2026-07-06 19:52:08,655  INFO       Main [01120003]             N/A ->     565,500,000  (1 decants updated)
+2026-07-06 19:52:08,769  INFO       080046 (Burberry Goddess intense decant 10ml): 24,000,000 -> 25,000,000
+2026-07-06 19:52:08,858  INFO       080595 (Burberry Goddess intense decant 20ml): 46,500,000 -> 48,000,000
+2026-07-06 19:52:08,864  INFO       Main [01130001]             N/A ->     227,500,000  (2 decants updated)
+2026-07-06 19:52:08,875  INFO       Main [01140004]             N/A ->     289,000,000  (0 decants updated)
+2026-07-06 19:52:08,983  INFO       080044 (Brecourt Captive decant 5ml): 16,500,000 -> 16,000,000
+2026-07-06 19:52:09,075  INFO       080671 (Brecourt Captive decant 20ml): 59,500,000 -> 58,500,000
+2026-07-06 19:52:09,080  INFO       Main [01140006]             N/A ->     279,000,000  (2 decants updated)
+2026-07-06 19:52:09,190  INFO       080796 (Brecourt Eau blanche edp decant 20ml): 48,500,000 -> 48,000,000
+2026-07-06 19:52:09,195  INFO       Main [01140009]             N/A ->     229,000,000  (1 decants updated)
+2026-07-06 19:52:09,306  INFO       080665 (Amouage Enclave decant 20ml): 124,000,000 -> 123,500,000
+2026-07-06 19:52:09,312  INFO       Main [01150002]             N/A ->     588,000,000  (1 decants updated)
+2026-07-06 19:52:09,322  INFO       Main [01150004]             N/A ->     588,000,000  (0 decants updated)
+2026-07-06 19:52:09,332  INFO       Main [01150005]             N/A ->     588,000,000  (0 decants updated)
+2026-07-06 19:52:09,439  INFO       080487 (Amouage Search 10ml): 74,500,000 -> 65,000,000
+2026-07-06 19:52:09,525  INFO       080488 (Amouage Search 5ml): 39,000,000 -> 34,000,000
+2026-07-06 19:52:09,626  INFO       080503 (Amouage Search 3ml): 24,500,000 -> 21,500,000
+2026-07-06 19:52:09,724  INFO       080669 (Amouage Search 20ml): 142,500,000 -> 123,500,000
+2026-07-06 19:52:09,729  INFO       Main [01150006]             N/A ->     588,000,000  (4 decants updated)
+2026-07-06 19:52:09,828  INFO       080502 (Amouage Purpose decant 3ml): 24,500,000 -> 24,000,000
+2026-07-06 19:52:09,913  INFO       080654 (Amouage Purpose decant 20ml): 141,000,000 -> 140,500,000
+2026-07-06 19:52:09,919  INFO       Main [01150007]             N/A ->     668,000,000  (2 decants updated)
+2026-07-06 19:52:10,026  INFO       080653 (Amouage Guidance decant 20ml): 149,500,000 -> 149,000,000
+2026-07-06 19:52:10,033  INFO       Main [01150008]             N/A ->     708,000,000  (1 decants updated)
+2026-07-06 19:52:10,130  INFO       080451 (Amouage Love delight edp decant 10ml): 69,500,000 -> 69,000,000
+2026-07-06 19:52:10,135  INFO       Main [01150013]             N/A ->     628,000,000  (1 decants updated)
+2026-07-06 19:52:10,231  INFO       080730 (Amouage Guidance 46 xdp decant 5ml): 55,000,000 -> 54,500,000
+2026-07-06 19:52:10,344  INFO       080788 (Amouage Guidance 46 xdp decant 20ml): 199,500,000 -> 199,000,000
+2026-07-06 19:52:10,350  INFO       Main [01150014]             N/A ->     948,000,000  (2 decants updated)
+2026-07-06 19:52:10,457  INFO       080740 (Amouage Decision edp decant 3ml): 24,500,000 -> 24,000,000
+2026-07-06 19:52:10,571  INFO       080785 (Amouage Decision edp decant 20ml): 141,000,000 -> 140,500,000
+2026-07-06 19:52:10,579  INFO       Main [01150015]             N/A ->     668,000,000  (2 decants updated)
+2026-07-06 19:52:10,657  INFO       080746 (Amouage Purpose 50 xdp 10ml): 114,000,000 -> 120,500,000
+2026-07-06 19:52:10,749  INFO       080747 (Amouage Purpose 50 xdp 5ml): 60,000,000 -> 63,000,000
+2026-07-06 19:52:10,843  INFO       080791 (Amouage Purpose 50 xdp 20ml): 230,500,000 -> 230,000,000
+2026-07-06 19:52:10,850  INFO       Main [01150016]             N/A ->   1,095,000,000  (3 decants updated)
+2026-07-06 19:52:10,930  INFO       080750 (Amouage Outlands 10ml): 95,500,000 -> 87,000,000
+2026-07-06 19:52:11,022  INFO       080751 (Amouage Outlands edp 5ml): 50,000,000 -> 45,500,000
+2026-07-06 19:52:11,109  INFO       080789 (Amouage Outlands 20ml): 174,000,000 -> 165,500,000
+2026-07-06 19:52:11,212  INFO       070043 (Amouage Outlands edp 3ml): 30,000,000 -> 28,500,000
+2026-07-06 19:52:11,218  INFO       Main [01150017]             N/A ->     788,000,000  (4 decants updated)
+2026-07-06 19:52:11,298  INFO       080786 (Amouage Existence edp decant 20ml): 141,000,000 -> 140,500,000
+2026-07-06 19:52:11,381  INFO       080787 (Amouage Existence edp decant 3ml): 24,500,000 -> 24,000,000
+2026-07-06 19:52:11,386  INFO       Main [01150018]             N/A ->     668,000,000  (2 decants updated)
+2026-07-06 19:52:11,468  INFO       080284 (Ramon monegal Ole decant 10ml): 54,000,000 -> 64,500,000
+2026-07-06 19:52:11,538  INFO       080285 (Ramon monegal Ole decant 5ml): 28,500,000 -> 33,500,000
+2026-07-06 19:52:11,626  INFO       080549 (Ramon monegal Ole decant 3ml): 18,000,000 -> 21,000,000
+2026-07-06 19:52:11,632  INFO       Main [01160002]             N/A ->     584,000,000  (3 decants updated)
+2026-07-06 19:52:11,642  INFO       Main [01160003]             N/A ->     698,500,000  (0 decants updated)
+2026-07-06 19:52:11,717  INFO       080692 (Ramon monegal Flamenco decant 20ml): 103,500,000 -> 103,000,000
+2026-07-06 19:52:11,723  INFO       Main [01160006]             N/A ->     489,500,000  (1 decants updated)
+2026-07-06 19:52:11,809  INFO       080206 (Maison rebatchi Bois denfant decant 10ml): 25,000,000 -> 24,500,000
+2026-07-06 19:52:11,815  INFO       Main [01170001]             N/A ->     223,000,000  (1 decants updated)
+2026-07-06 19:52:11,915  INFO       080212 (Maison rebatchi Musc panache decant 10ml): 25,000,000 -> 24,500,000
+2026-07-06 19:52:11,985  INFO       080633 (Maison rebatchi Musc panache decant 20ml): 47,500,000 -> 47,000,000
+2026-07-06 19:52:11,990  INFO       Main [01170003]             N/A ->     223,000,000  (2 decants updated)
+2026-07-06 19:52:12,060  INFO       080208 (Maison rebatchi Cuir tassili decant 10ml): 25,000,000 -> 24,500,000
+2026-07-06 19:52:12,066  INFO       Main [01170004]             N/A ->     223,000,000  (1 decants updated)
+2026-07-06 19:52:12,166  INFO       080216 (Maison rebatchi Rougewood decant 10ml): 25,000,000 -> 24,500,000
+2026-07-06 19:52:12,172  INFO       Main [01170007]             N/A ->     223,000,000  (1 decants updated)
+2026-07-06 19:52:12,181  INFO       Main [01170008]             N/A ->     223,000,000  (0 decants updated)
+2026-07-06 19:52:12,189  INFO       Main [01180002]             N/A ->     295,000,000  (0 decants updated)
+2026-07-06 19:52:12,266  INFO       080550 (Scentologia OverDose decant 20ml): 62,500,000 -> 62,000,000
+2026-07-06 19:52:12,271  INFO       Main [01180003]             N/A ->     295,000,000  (1 decants updated)
+2026-07-06 19:52:12,362  INFO       080294 (Rochas Moustache decant 10ml): 8,000,000 -> 8,500,000
+2026-07-06 19:52:12,447  INFO       080646 (Rochas Moustache decant 20ml): 15,500,000 -> 16,000,000
+2026-07-06 19:52:12,452  INFO       Main [01210001]             N/A ->      94,500,000  (2 decants updated)
+2026-07-06 19:52:12,523  INFO       080196 (Louis vuitton Imagination decant 10ml): 110,000,000 -> 119,500,000
+2026-07-06 19:52:12,604  INFO       080197 (Louis vuitton Imagination decant 5ml): 57,500,000 -> 62,500,000
+2026-07-06 19:52:12,693  INFO       080531 (Louis vuitton Imagination decant 3ml): 36,000,000 -> 39,000,000
+2026-07-06 19:52:12,798  INFO       080823 (Louis vuitton Imagination decant 20ml): 210,000,000 -> 228,000,000
+2026-07-06 19:52:12,803  INFO       Main [01220001]             N/A ->   1,085,500,000  (4 decants updated)
+2026-07-06 19:52:12,895  INFO       080419 (Creed Queen of Silk decant 10ml): 98,000,000 -> 102,500,000
+2026-07-06 19:52:12,980  INFO       080420 (Creed Queen of Silk decant 5ml): 51,500,000 -> 53,500,000
+2026-07-06 19:52:13,076  INFO       080519 (Creed Queen of silk decant 3ml): 32,000,000 -> 33,500,000
+2026-07-06 19:52:13,174  INFO       080679 (Creed Queen of silk decant 20ml): 184,000,000 -> 195,000,000
+2026-07-06 19:52:13,179  INFO       Main [01230002]             N/A ->     696,500,000  (4 decants updated)
+2026-07-06 19:52:13,263  INFO       080070 (Creed Aventus absolu decant 10ml): 115,000,000 -> 120,500,000
+2026-07-06 19:52:13,377  INFO       080071 (Creed Aventus absolu decant 5ml): 60,000,000 -> 63,000,000
+2026-07-06 19:52:13,466  INFO       080518 (Creed Aventus absolu decant 3ml): 38,000,000 -> 39,500,000
+2026-07-06 19:52:13,550  INFO       080664 (Creed Aventus absolu decant 20ml): 219,000,000 -> 229,500,000
+2026-07-06 19:52:13,558  INFO       Main [01230003]             N/A ->   1,092,500,000  (4 decants updated)
+2026-07-06 19:52:13,666  INFO       080349 (Tom ford Ombre leather parfum decant 10ml): 41,500,000 -> 42,500,000
+2026-07-06 19:52:13,754  INFO       080350 (Tom ford Ombre leather parfum decant 5ml): 22,000,000 -> 22,500,000
+2026-07-06 19:52:13,824  INFO       080694 (Tom ford Ombre leather parfum decant 20ml): 79,500,000 -> 81,000,000
+2026-07-06 19:52:13,829  INFO       Main [01240004]             N/A ->     385,500,000  (3 decants updated)
+2026-07-06 19:52:13,919  INFO       080345 (Tom ford Fucking fabulous decant 10ml): 82,500,000 -> 80,500,000
+2026-07-06 19:52:13,987  INFO       080346 (Tom ford Fucking fabulous decant 5ml): 44,000,000 -> 42,000,000
+2026-07-06 19:52:13,992  INFO       Main [01240006]             N/A ->     728,500,000  (2 decants updated)
+2026-07-06 19:52:14,062  INFO       080347 (Tom ford Noir extreme decant 10ml): 36,000,000 -> 37,000,000
+2026-07-06 19:52:14,140  INFO       080348 (Tom ford Noir extreme decant 5ml): 19,000,000 -> 19,500,000
+2026-07-06 19:52:14,144  INFO       Main [01240007]             N/A ->     335,500,000  (2 decants updated)
+2026-07-06 19:52:14,222  INFO       080058 (Casamorati La tosca decant 10ml): 39,500,000 -> 40,500,000
+2026-07-06 19:52:14,330  INFO       080059 (Casamorati La tosca decant 5ml): 20,500,000 -> 21,000,000
+2026-07-06 19:52:14,426  INFO       080512 (Casamorati la tosca 3ml): 13,000,000 -> 13,500,000
+2026-07-06 19:52:14,510  INFO       080674 (Casamorati La tosca decant 20ml): 75,500,000 -> 77,000,000
+2026-07-06 19:52:14,515  INFO       Main [01250001]             N/A ->     366,500,000  (4 decants updated)
+2026-07-06 19:52:14,605  INFO       080773 (CH La bomba edp decant 10ml): 38,500,000 -> 39,000,000
+2026-07-06 19:52:14,711  INFO       080798 (CH La bomba edp decant 20ml): 74,000,000 -> 74,500,000
+2026-07-06 19:52:14,717  INFO       Main [01280006]             N/A ->     284,000,000  (2 decants updated)
+2026-07-06 19:52:14,726  INFO       Main [01290004]             N/A ->     219,000,000  (0 decants updated)
+2026-07-06 19:52:14,827  INFO       080272 (Paco rabanne Fame decant 10ml): 27,500,000 -> 29,000,000
+2026-07-06 19:52:14,916  INFO       080273 (Paco rabanne Fame decant 5ml): 14,500,000 -> 15,000,000
+2026-07-06 19:52:15,007  INFO       080643 (Paco rabanne Fame decant 20ml): 52,500,000 -> 55,000,000
+2026-07-06 19:52:15,014  INFO       Main [01290006]             N/A ->     208,000,000  (3 decants updated)
+2026-07-06 19:52:15,024  INFO       Main [01300003]             N/A ->      84,500,000  (0 decants updated)
+2026-07-06 19:52:15,034  INFO       Main [01300004]             N/A ->     104,000,000  (0 decants updated)
+2026-07-06 19:52:15,043  INFO       Main [01300005]             N/A ->      94,500,000  (0 decants updated)
+2026-07-06 19:52:15,131  INFO       080621 (Issey miyake Le sel dissey edt decant 20ml): 33,000,000 -> 32,500,000
+2026-07-06 19:52:15,138  INFO       Main [01300006]             N/A ->     154,000,000  (1 decants updated)
+2026-07-06 19:52:15,209  INFO       080120 (Gucci Flora gorgeous gardenia decant 10ml): 25,000,000 -> 23,500,000
+2026-07-06 19:52:15,296  INFO       080121 (Gucci Flora gorgeous gardenia decant 5ml): 13,000,000 -> 12,500,000
+2026-07-06 19:52:15,383  INFO       080612 (Gucci Flora gorgeous gardenia decant 20ml): 48,000,000 -> 45,000,000
+2026-07-06 19:52:15,389  INFO       Main [01310005]             N/A ->     214,500,000  (3 decants updated)
+2026-07-06 19:52:15,399  INFO       Main [01320003]             N/A ->     189,500,000  (0 decants updated)
+2026-07-06 19:52:15,510  INFO       080124 (Guerlain Habit rouge decant 10ml): 17,000,000 -> 15,000,000
+2026-07-06 19:52:15,604  INFO       080125 (Guerlain Habit rouge decant 5ml): 9,000,000 -> 8,000,000
+2026-07-06 19:52:15,609  INFO       Main [01320005]             N/A ->     135,975,000  (2 decants updated)
+2026-07-06 19:52:15,707  INFO       080024 (Mercedes benz Intense decant 10ml): 7,500,000 -> 7,000,000
+2026-07-06 19:52:15,797  INFO       080590 (Mercedes benz Intense decant 20ml): 15,000,000 -> 13,500,000
+2026-07-06 19:52:15,803  INFO       Main [01330003]             N/A ->      77,000,000  (2 decants updated)
+2026-07-06 19:52:15,909  INFO       080591 (Mercedes benz Man intense decant 20ml): 19,000,000 -> 18,000,000
+2026-07-06 19:52:15,915  INFO       Main [01330004]             N/A ->      86,000,000  (1 decants updated)
+2026-07-06 19:52:15,923  INFO       Main [01340002]             N/A ->     715,000,000  (0 decants updated)
+2026-07-06 19:52:15,932  INFO       Main [01340005]             N/A ->     415,500,000  (0 decants updated)
+2026-07-06 19:52:16,016  INFO       080558 (Xerjoff Erba gold decant 3ml): 16,500,000 -> 16,000,000
+2026-07-06 19:52:16,021  INFO       Main [01340006]             N/A ->     445,500,000  (1 decants updated)
+2026-07-06 19:52:16,109  INFO       080385 (Xerjoff Accento decant 10ml): 46,000,000 -> 45,500,000
+2026-07-06 19:52:16,115  INFO       Main [01340007]             N/A ->     414,500,000  (1 decants updated)
+2026-07-06 19:52:16,198  INFO       080725 (Histoires de parfums Irreverent edp decant 10ml): 38,000,000 -> 44,000,000
+2026-07-06 19:52:16,271  INFO       080726 (Histoires de parfums Irreverent edp decant 5ml): 20,000,000 -> 23,000,000
+2026-07-06 19:52:16,349  INFO       080749 (Histoires de Parfums Irreverent edp decant 3ml): 12,500,000 -> 14,500,000
+2026-07-06 19:52:16,357  INFO       Main [01380005]             N/A ->     238,500,000  (3 decants updated)
+2026-07-06 19:52:16,438  INFO       080130 (Halloween Man shot decant 10ml): 6,500,000 -> 6,000,000
+2026-07-06 19:52:16,506  INFO       080614 (Halloween Man shot decant 20ml): 12,500,000 -> 11,500,000
+2026-07-06 19:52:16,511  INFO       Main [01400002]             N/A ->      68,500,000  (2 decants updated)
+2026-07-06 19:52:16,599  INFO       080490 (Halloween Shot woman edt decant 10ml): 8,500,000 -> 8,000,000
+2026-07-06 19:52:16,687  INFO       080617 (Halloween Shot woman edt decant 20ml): 16,000,000 -> 15,500,000
+2026-07-06 19:52:16,693  INFO       Main [01400003]             N/A ->      72,000,000  (2 decants updated)
+2026-07-06 19:52:16,772  INFO       080129 (Halloween Man decant 10ml): 6,000,000 -> 5,500,000
+2026-07-06 19:52:16,867  INFO       080613 (Halloween Man decant 20ml): 11,500,000 -> 10,500,000
+2026-07-06 19:52:16,873  INFO       Main [01400006]             N/A ->      62,500,000  (2 decants updated)
+2026-07-06 19:52:16,956  INFO       080105 (Dunhill Icon racing red decant 10ml): 9,000,000 -> 8,500,000
+2026-07-06 19:52:17,039  INFO       080684 (Dunhill Icon red decant 20ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:17,045  INFO       Main [01410011]             N/A ->      77,500,000  (2 decants updated)
+2026-07-06 19:52:17,124  INFO       080821 (Laboratorio olfattivo Sacreste decant 20ml): 44,000,000 -> 43,500,000
+2026-07-06 19:52:17,128  INFO       Main [01430005]             N/A ->     207,500,000  (1 decants updated)
+2026-07-06 19:52:17,136  INFO       Main [01450016]             N/A ->     684,500,000  (0 decants updated)
+2026-07-06 19:52:17,228  INFO       080486 (Hemcael Caelum edp decant 5ml): 37,500,000 -> 37,000,000
+2026-07-06 19:52:17,233  INFO       Main [01450017]             N/A ->     644,500,000  (1 decants updated)
+2026-07-06 19:52:17,313  INFO       080246 (Montblanc Starwalker extrem edt decant 10ml): 2,400,000 -> 3,000,000
+2026-07-06 19:52:17,393  INFO       080247 (Montblanc Starwalker extrem edt decant 5ml): 1,200,000 -> 1,500,000
+2026-07-06 19:52:17,471  INFO       080839 (Montblanc Starwalker extrem edt decant 20ml): 4,800,000 -> 5,000,000
+2026-07-06 19:52:17,479  INFO       Main [01460011]             N/A ->      18,000,000  (3 decants updated)
+2026-07-06 19:52:17,489  INFO       Main [01460012]             N/A ->      90,500,000  (0 decants updated)
+2026-07-06 19:52:17,577  INFO       080366 (Valentino Voce viva decant 10ml): 27,500,000 -> 27,000,000
+2026-07-06 19:52:17,657  INFO       080649 (Valentino Voce viva decant 20ml): 52,500,000 -> 52,000,000
+2026-07-06 19:52:17,662  INFO       Main [01490005]             N/A ->     246,000,000  (2 decants updated)
+2026-07-06 19:52:17,745  INFO       080364 (Valentino Uomo intense decant 10ml): 26,000,000 -> 25,500,000
+2026-07-06 19:52:17,752  INFO       Main [01490006]             N/A ->     232,000,000  (1 decants updated)
+2026-07-06 19:52:17,861  INFO       080108 (Elie saab Girl of now decant 10ml): 16,500,000 -> 16,000,000
+2026-07-06 19:52:17,979  INFO       080685 (Elie saab Girl of now decant 20ml): 31,500,000 -> 30,000,000
+2026-07-06 19:52:17,986  INFO       Main [01510003]             N/A ->     128,500,000  (2 decants updated)
+2026-07-06 19:52:18,095  INFO       080645 (Ralph loaren Club edp decant 20ml): 30,000,000 -> 29,000,000
+2026-07-06 19:52:18,101  INFO       Main [01520004]             N/A ->     138,500,000  (1 decants updated)
+2026-07-06 19:52:18,194  INFO       080050 (Bvlgari Man in black decant 10ml): 18,500,000 -> 19,000,000
+2026-07-06 19:52:18,200  INFO       Main [01530004]             N/A ->     169,500,000  (1 decants updated)
+2026-07-06 19:52:18,300  INFO       080116 (Givenchy Linterdit rouge decant 10ml): 29,500,000 -> 31,500,000
+2026-07-06 19:52:18,394  INFO       080117 (Givenchy Linterdit rouge decant 5ml): 15,500,000 -> 16,500,000
+2026-07-06 19:52:18,487  INFO       080807 (Givenchy Linterdit rouge decant 20ml): 56,500,000 -> 59,500,000
+2026-07-06 19:52:18,492  INFO       Main [01540006]             N/A ->     226,500,000  (3 decants updated)
+2026-07-06 19:52:18,585  INFO       080112 (Givenchy Gentleman edp decant 10ml): 18,000,000 -> 18,500,000
+2026-07-06 19:52:18,670  INFO       080113 (Givenchy Gentleman edp decant 5ml): 9,500,000 -> 10,000,000
+2026-07-06 19:52:18,743  INFO       080806 (Givenchy Gentleman edp decant 20ml): 34,500,000 -> 35,500,000
+2026-07-06 19:52:18,749  INFO       Main [01540007]             N/A ->     168,500,000  (3 decants updated)
+2026-07-06 19:52:18,824  INFO       080610 (Givenchy Gentleman reserve privee decant 20ml): 38,000,000 -> 38,500,000
+2026-07-06 19:52:18,830  INFO       Main [01540008]             N/A ->     182,500,000  (1 decants updated)
+2026-07-06 19:52:18,917  INFO       080072 (D&G Devotion femme decant 10ml): 16,500,000 -> 17,000,000
+2026-07-06 19:52:18,993  INFO       080073 (D&G Devotion femme decant 5ml): 8,500,000 -> 9,000,000
+2026-07-06 19:52:19,083  INFO       080601 (D&G Devotion femme decant 20ml): 31,500,000 -> 32,000,000
+2026-07-06 19:52:19,088  INFO       Main [01550005]             N/A ->     152,500,000  (3 decants updated)
+2026-07-06 19:52:19,172  INFO       080491 (D&G Devotion homme edp decant 10ml): 17,500,000 -> 18,000,000
+2026-07-06 19:52:19,269  INFO       080603 (D&G Devotion homme edp decant 20ml): 34,000,000 -> 34,500,000
+2026-07-06 19:52:19,275  INFO       Main [01550006]             N/A ->     164,500,000  (2 decants updated)
+2026-07-06 19:52:19,349  INFO       080580 (Azzaro The most wanted edp intense decant 10ml): 15,500,000 -> 16,000,000
+2026-07-06 19:52:19,422  INFO       080581 (Azzaro The most wanted edp intense decant 5ml): 8,000,000 -> 8,500,000
+2026-07-06 19:52:19,508  INFO       080586 (Azzaro The most wanted edp intense decant 20ml): 30,000,000 -> 30,500,000
+2026-07-06 19:52:19,517  INFO       Main [01580004]             N/A ->     144,500,000  (3 decants updated)
+2026-07-06 19:52:19,525  INFO       Main [01590001]             N/A ->     199,500,000  (0 decants updated)
+2026-07-06 19:52:19,536  INFO       Main [01600001]             N/A ->     236,500,000  (0 decants updated)
+2026-07-06 19:52:19,545  INFO       Main [01620002]             N/A ->     136,500,000  (0 decants updated)
+2026-07-06 19:52:19,615  INFO       080260 (Narciso rodriguez Poudree decant 10ml): 18,000,000 -> 18,500,000
+2026-07-06 19:52:19,695  INFO       080642 (Narciso rodriguez Poudree decant 20ml): 34,500,000 -> 35,000,000
+2026-07-06 19:52:19,700  INFO       Main [01620003]             N/A ->     148,500,000  (2 decants updated)
+2026-07-06 19:52:19,784  INFO       080258 (Narciso rodriguez Bleu noir edp decant 10ml): 15,500,000 -> 14,500,000
+2026-07-06 19:52:19,893  INFO       080259 (Narciso rodriguez Bleu noir edp decant 5ml): 8,000,000 -> 7,500,000
+2026-07-06 19:52:19,977  INFO       080640 (Narciso rodriguez Bleu noir edp decant 20ml): 30,000,000 -> 27,000,000
+2026-07-06 19:52:19,983  INFO       Main [01620004]             N/A ->     128,500,000  (3 decants updated)
+2026-07-06 19:52:20,101  INFO       080493 (Narciso rodriguez Ambree edp decant 10ml): 19,000,000 -> 19,500,000
+2026-07-06 19:52:20,220  INFO       080494 (Narciso rodriguez Ambree edp decant 5ml): 10,000,000 -> 10,500,000
+2026-07-06 19:52:20,226  INFO       Main [01620005]             N/A ->     158,500,000  (2 decants updated)
+2026-07-06 19:52:20,314  INFO       080703 (Roberto verino Pure man decant 20ml): 7,000,000 -> 6,500,000
+2026-07-06 19:52:20,320  INFO       Main [01630006]             N/A ->      44,500,000  (1 decants updated)
+2026-07-06 19:52:20,442  INFO       080035 (BOHOBOCO Red wine brown sugar decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:20,533  INFO       080036 (BOHOBOCO Red wine brown sugar decant 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:20,623  INFO       080507 (BOHOBOCO Red wine bown sugar decant 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:20,628  INFO       Main [01640002]             N/A ->     228,500,000  (3 decants updated)
+2026-07-06 19:52:20,746  INFO       080039 (BOHOBOCO Wet cherry liquor decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:20,854  INFO       080040 (BOHOBOCO Wet cherry liquor decant 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:20,968  INFO       080509 (BOHOBOCO Wet cherry liquor decant 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:20,974  INFO       Main [01640003]             N/A ->     228,500,000  (3 decants updated)
+2026-07-06 19:52:21,074  INFO       080037 (BOHOBOCO Sea salt caramel decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:21,177  INFO       080038 (BOHOBOCO Sea salt caramel decant 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:21,266  INFO       080508 (BOHOBOCO Sea salt caramel decant 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:21,271  INFO       Main [01640004]             N/A ->     228,500,000  (3 decants updated)
+2026-07-06 19:52:21,374  INFO       080031 (BOHOBOCO Coffee white flowers decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:21,477  INFO       080032 (BOHOBOCO Coffee white flowers decant 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:21,575  INFO       080504 (BOHOBOCO Coffee white flowers decant 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:21,581  INFO       Main [01640005]             N/A ->     228,500,000  (3 decants updated)
+2026-07-06 19:52:21,680  INFO       01640007 (BOHOBOCO Polish potatoes 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:21,774  INFO       080482 (BOHOBOCO Polish potatoes 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:21,872  INFO       080506 (BOHOBOCO Polish potatoes 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:21,878  INFO       Main [01640006]             N/A ->     228,500,000  (3 decants updated)
+2026-07-06 19:52:22,004  INFO       080761 (BOHOBOCO Oriental saffron decant 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:22,115  INFO       080762 (BOHOBOCO Oriental saffron decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:22,221  INFO       080795 (BOHOBOCO Oriental saffron decant 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:22,226  INFO       Main [01640008]             N/A ->     228,500,000  (3 decants updated)
+2026-07-06 19:52:22,330  INFO       080088 (Delmar sweet temptation 10ml): 343,000,000 -> 299,000,000
+2026-07-06 19:52:22,444  INFO       080089 (Delmar sweet temptation 5ml): 179,500,000 -> 156,500,000
+2026-07-06 19:52:22,553  INFO       080520 (Delmar sweet temptation 3ml): 112,500,000 -> 98,000,000
+2026-07-06 19:52:22,558  INFO       Main [01680002]             N/A ->   1,358,500,000  (3 decants updated)
+2026-07-06 19:52:22,669  INFO       080266 (Nishane Hacivat decant 10ml): 41,500,000 -> 42,500,000
+2026-07-06 19:52:22,750  INFO       080267 (Nishane Hacivat decant 5ml): 22,000,000 -> 22,500,000
+2026-07-06 19:52:22,836  INFO       080840 (Nishane Hacivat decant 20ml): 80,000,000 -> 81,500,000
+2026-07-06 19:52:22,842  INFO       Main [01690001]             N/A ->     387,000,000  (3 decants updated)
+2026-07-06 19:52:22,857  INFO       Main [01690002]             N/A ->     399,500,000  (0 decants updated)
+2026-07-06 19:52:22,870  INFO       Main [01690003]             N/A ->     369,500,000  (0 decants updated)
+2026-07-06 19:52:22,884  INFO       Main [01710001]             N/A ->      67,500,000  (0 decants updated)
+2026-07-06 19:52:23,034  INFO       080465 (Bentley Silverlake edp decant 10ml): 8,000,000 -> 8,500,000
+2026-07-06 19:52:23,149  INFO       080589 (Bentley Silverlake edp decant 20ml): 16,000,000 -> 15,500,000
+2026-07-06 19:52:23,156  INFO       Main [01710002]             N/A ->      74,000,000  (2 decants updated)
+2026-07-06 19:52:23,169  INFO       Main [01710003]             N/A ->      76,000,000  (0 decants updated)
+2026-07-06 19:52:23,284  INFO       080861 (Salvatore Ferragamo uomo signature decant 20ml): 19,000,000 -> 18,500,000
+2026-07-06 19:52:23,290  INFO       Main [01730001]             N/A ->      87,500,000  (1 decants updated)
+2026-07-06 19:52:23,401  INFO       080849 (Salvatore ferragamo Intense leather decant 20ml): 22,500,000 -> 22,000,000
+2026-07-06 19:52:23,407  INFO       Main [01730003]             N/A ->     104,500,000  (1 decants updated)
+2026-07-06 19:52:23,546  INFO       080277 (Prada Paradox decant 5ml): 15,500,000 -> 15,000,000
+2026-07-06 19:52:23,663  INFO       080644 (Prada Paradox decant 20ml): 56,000,000 -> 55,000,000
+2026-07-06 19:52:23,667  INFO       Main [01740006]             N/A ->     236,000,000  (2 decants updated)
+2026-07-06 19:52:23,787  INFO       080459 (Maison crivelli Oud maracuja xdp decant 10ml): 169,500,000 -> 174,000,000
+2026-07-06 19:52:23,889  INFO       080460 (Maison crivelli Oud maracuja xdp decant 5ml): 88,500,000 -> 91,000,000
+2026-07-06 19:52:23,993  INFO       080533 (Maison crivelli Oud maracuja xdp decant 3ml): 55,500,000 -> 57,000,000
+2026-07-06 19:52:23,998  INFO       Main [01750004]             N/A ->     789,500,000  (3 decants updated)
+2026-07-06 19:52:24,010  INFO       Main [01760005]             N/A ->     185,500,000  (0 decants updated)
+2026-07-06 19:52:24,107  INFO       080478 (Giardini di toscana Bianco latte edp decant 10ml): 40,500,000 -> 41,500,000
+2026-07-06 19:52:24,197  INFO       080479 (Giardini di toscana Bianco latte edp decant 5ml): 21,000,000 -> 21,500,000
+2026-07-06 19:52:24,302  INFO       080687 (Giardini di toscana Bianco latte decant 20ml): 61,500,000 -> 79,000,000
+2026-07-06 19:52:24,308  INFO       Main [01770003]             N/A ->     374,500,000  (3 decants updated)
+2026-07-06 19:52:24,416  INFO       080716 (Daniel josier Black widow decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:24,421  INFO       Main [01780002]             N/A ->     288,000,000  (1 decants updated)
+2026-07-06 19:52:24,515  INFO       080077 (Daniel josier Ambre tabac decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:24,593  INFO       080604 (Daniel josier Ambre tabac decant 20ml): 61,000,000 -> 60,500,000
+2026-07-06 19:52:24,598  INFO       Main [01780004]             N/A ->     288,000,000  (2 decants updated)
+2026-07-06 19:52:24,682  INFO       01010006 (Daniel josier Le musk decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:24,773  INFO       080605 (Daniel josier Le musk decant 20ml): 61,000,000 -> 60,500,000
+2026-07-06 19:52:24,777  INFO       Main [01780005]             N/A ->     288,000,000  (2 decants updated)
+2026-07-06 19:52:24,853  INFO       080081 (Daniel josier Under the figtree decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:24,859  INFO       Main [01780007]             N/A ->     288,000,000  (1 decants updated)
+2026-07-06 19:52:24,947  INFO       080079 (Daniel josier Tuberose decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:24,952  INFO       Main [01780013]             N/A ->     288,000,000  (1 decants updated)
+2026-07-06 19:52:25,029  INFO       080087 (D-souls Vanille et coco decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:25,034  INFO       Main [01780014]             N/A ->     288,000,000  (1 decants updated)
+2026-07-06 19:52:25,138  INFO       080085 (D-souls Lagrimas de Boabdil decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:25,143  INFO       Main [01780015]             N/A ->     288,000,000  (1 decants updated)
+2026-07-06 19:52:25,228  INFO       080711 (Joterc Cherry on top edp decant 5ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:25,233  INFO       Main [01780016]             N/A ->     288,000,000  (1 decants updated)
+2026-07-06 19:52:25,241  INFO       Main [01780017]             N/A ->     288,000,000  (0 decants updated)
+2026-07-06 19:52:25,358  INFO       080236 (Mes bisous Amberique decant 10ml): 46,000,000 -> 47,000,000
+2026-07-06 19:52:25,482  INFO       080237 (Mes bisous Amberique decant 5ml): 24,000,000 -> 24,500,000
+2026-07-06 19:52:25,597  INFO       080538 (Mes bisous Amberique decant 3ml): 15,000,000 -> 15,500,000
+2026-07-06 19:52:25,711  INFO       080830 (Mes bisous Amberique decant 20ml): 88,000,000 -> 89,500,000
+2026-07-06 19:52:25,716  INFO       Main [01810002]             N/A ->     425,000,000  (4 decants updated)
+2026-07-06 19:52:25,822  INFO       080240 (Mes bisous Tobacco Vanilla decant 10ml): 46,000,000 -> 47,000,000
+2026-07-06 19:52:25,939  INFO       080241 (Mes bisous Tobacco Vanilla decant 5ml): 24,000,000 -> 24,500,000
+2026-07-06 19:52:26,033  INFO       080542 (Mes bisous Tobacco Vanilla decant 3ml): 15,000,000 -> 15,500,000
+2026-07-06 19:52:26,139  INFO       080838 (Mes bisous Tobacco Vanilla decant 20ml): 88,000,000 -> 89,500,000
+2026-07-06 19:52:26,144  INFO       Main [01810003]             N/A ->     425,000,000  (4 decants updated)
+2026-07-06 19:52:26,268  INFO       080238 (Mes bisous One night only decant 10ml): 46,000,000 -> 47,000,000
+2026-07-06 19:52:26,376  INFO       080239 (Mes bisous One night only decant 5ml): 24,000,000 -> 24,500,000
+2026-07-06 19:52:26,486  INFO       080540 (Mes bisous One night only decant 3ml): 15,000,000 -> 15,500,000
+2026-07-06 19:52:26,598  INFO       080834 (Mes bisous One night only decant 20ml): 88,000,000 -> 89,500,000
+2026-07-06 19:52:26,603  INFO       Main [01810004]             N/A ->     425,000,000  (4 decants updated)
+2026-07-06 19:52:26,720  INFO       080472 (Mes bisous Balle rouge xdp decant 10ml): 46,000,000 -> 47,000,000
+2026-07-06 19:52:26,804  INFO       080473 (Mes bisous Balle rouge xdp decant 5ml): 24,000,000 -> 24,500,000
+2026-07-06 19:52:26,926  INFO       080539 (Mes bisous Balle rouge decant 3ml): 15,000,000 -> 15,500,000
+2026-07-06 19:52:27,042  INFO       080831 (Mes bisous Balle rouge decant 20ml): 88,000,000 -> 89,500,000
+2026-07-06 19:52:27,047  INFO       Main [01810005]             N/A ->     425,000,000  (4 decants updated)
+2026-07-06 19:52:27,163  INFO       080234 (Mes bisous A Wondrous flight decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:27,280  INFO       080235 (Mes bisous A Wondrous flight decant 5ml): 26,000,000 -> 26,500,000
+2026-07-06 19:52:27,383  INFO       080829 (Mes bisous A Wondrous flight decant 20ml): 93,500,000 -> 96,500,000
+2026-07-06 19:52:27,389  INFO       Main [01810006]             N/A ->     458,000,000  (3 decants updated)
+2026-07-06 19:52:27,490  INFO       080434 (Mes bisous Passion Island xdp decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:27,581  INFO       080435 (Mes bisous Passion Island xdp decant 5ml): 26,000,000 -> 26,500,000
+2026-07-06 19:52:27,691  INFO       080837 (Mes bisous Passion Island decant 20ml): 93,500,000 -> 96,500,000
+2026-07-06 19:52:27,696  INFO       Main [01810007]             N/A ->     458,000,000  (3 decants updated)
+2026-07-06 19:52:27,821  INFO       080767 (Mes bisous Crumble me softly xdp decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:27,940  INFO       080768 (Mes bisous Crumble me softly xdp decant 5ml): 26,000,000 -> 26,500,000
+2026-07-06 19:52:28,055  INFO       080832 (Mes bisous Crumble me softly xdp decant 20ml): 93,500,000 -> 96,500,000
+2026-07-06 19:52:28,060  INFO       Main [01810008]             N/A ->     458,000,000  (3 decants updated)
+2026-07-06 19:52:28,190  INFO       080769 (Mes bisous Out of reach xdp decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:28,313  INFO       080770 (Mes bisous Out of reach xdp decant 5ml): 26,000,000 -> 26,500,000
+2026-07-06 19:52:28,428  INFO       080836 (Mes bisous Out of reach xdp decant 20ml): 93,500,000 -> 96,500,000
+2026-07-06 19:52:28,433  INFO       Main [01810009]             N/A ->     458,000,000  (3 decants updated)
+2026-07-06 19:52:28,533  INFO       080476 (Aigner Starlight edp decant 10ml): 7,000,000 -> 7,500,000
+2026-07-06 19:52:28,635  INFO       080582 (Aigner Starlight edp decant 20ml): 13,500,000 -> 14,000,000
+2026-07-06 19:52:28,640  INFO       Main [01820001]             N/A ->      66,000,000  (2 decants updated)
+2026-07-06 19:52:28,746  INFO       080147 (Jacques fath Jasmin de toscane decant 10ml): 24,000,000 -> 23,500,000
+2026-07-06 19:52:28,861  INFO       080815 (Jacques fath Jasmin de toscane decant 20ml): 45,500,000 -> 45,000,000
+2026-07-06 19:52:28,867  INFO       Main [01830004]             N/A ->     214,000,000  (2 decants updated)
+2026-07-06 19:52:28,983  INFO       080144 (Jacques fath Curacao bay decant 10ml): 6,950,000 -> 7,000,000
+2026-07-06 19:52:29,099  INFO       080145 (Jacques fath Curacao bay decant 5ml): 3,650,000 -> 4,000,000
+2026-07-06 19:52:29,214  INFO       080756 (Jacques fath Curacao bay decant 20ml): 13,200,000 -> 13,500,000
+2026-07-06 19:52:29,218  INFO       Main [01830005]             N/A ->      62,750,000  (3 decants updated)
+2026-07-06 19:52:29,328  INFO       080765 (Jacques fath Musc Couture parfum decant 10ml): 24,000,000 -> 23,500,000
+2026-07-06 19:52:29,454  INFO       080814 (Jacques fath Musc Couture parfum decant 20ml): 45,500,000 -> 45,000,000
+2026-07-06 19:52:29,458  INFO       Main [01830006]             N/A ->     214,000,000  (2 decants updated)
+2026-07-06 19:52:29,583  INFO       080763 (Jacques fath Encens copal parfum decant 10ml): 24,000,000 -> 23,500,000
+2026-07-06 19:52:29,686  INFO       080813 (Jacques fath Encens copal parfum decant 20ml): 45,500,000 -> 45,000,000
+2026-07-06 19:52:29,690  INFO       Main [01830007]             N/A ->     214,000,000  (2 decants updated)
+2026-07-06 19:52:29,811  INFO       080598 (Costume national Free dhomme edp decant 20ml): 28,500,000 -> 28,000,000
+2026-07-06 19:52:29,815  INFO       Main [01860001]             N/A ->     133,000,000  (1 decants updated)
+2026-07-06 19:52:29,822  INFO       Main [01860002]             N/A ->     112,500,000  (0 decants updated)
+2026-07-06 19:52:29,937  INFO       080438 (Costume National sea thru edp 5ml): 8,000,000 -> 7,000,000
+2026-07-06 19:52:30,053  INFO       080439 (Costume National sea thru edp 10ml): 14,000,000 -> 13,000,000
+2026-07-06 19:52:30,144  INFO       080599 (Costume National sea thru edp 20ml): 29,000,000 -> 25,000,000
+2026-07-06 19:52:30,148  INFO       Main [01860003]             N/A ->     118,000,000  (3 decants updated)
+2026-07-06 19:52:30,156  INFO       Main [01870008]             N/A ->      54,500,000  (0 decants updated)
+2026-07-06 19:52:30,238  INFO       080808 (Gres Madame decant 20ml): 15,000,000 -> 14,500,000
+2026-07-06 19:52:30,243  INFO       Main [01870009]             N/A ->      68,000,000  (1 decants updated)
+2026-07-06 19:52:30,343  INFO       080467 (Marco Serussi The man intense decant 10ml): 17,000,000 -> 17,500,000
+2026-07-06 19:52:30,442  INFO       080468 (Marco Serussi The man intense decant 5ml): 9,000,000 -> 9,500,000
+2026-07-06 19:52:30,548  INFO       080634 (Marco Serussi The man intense decant 20ml): 33,000,000 -> 33,500,000
+2026-07-06 19:52:30,553  INFO       Main [01920003]             N/A ->     158,500,000  (3 decants updated)
+2026-07-06 19:52:30,653  INFO       080717 (Marco serussi The lady decant 10ml): 15,000,000 -> 14,500,000
+2026-07-06 19:52:30,745  INFO       080828 (Marco serussi The lady decant 20ml): 28,500,000 -> 28,000,000
+2026-07-06 19:52:30,751  INFO       Main [01920008]             N/A ->     132,500,000  (2 decants updated)
+2026-07-06 19:52:30,851  INFO       080635 (Marco serussi The man secret edp decant 20ml): 31,000,000 -> 30,500,000
+2026-07-06 19:52:30,856  INFO       Main [01920013]             N/A ->     143,500,000  (1 decants updated)
+2026-07-06 19:52:30,969  INFO       080483 (Frederic malle French lover edp decant 10ml): 58,000,000 -> 60,000,000
+2026-07-06 19:52:31,071  INFO       080484 (Frederic malle French lover edp decant 5ml): 30,500,000 -> 31,500,000
+2026-07-06 19:52:31,172  INFO       080525 (Frederic malle French lover edp decant 3ml): 19,000,000 -> 19,500,000
+2026-07-06 19:52:31,177  INFO       Main [01930002]             N/A ->     543,000,000  (3 decants updated)
+2026-07-06 19:52:31,187  INFO       Main [01940002]             N/A ->      67,500,000  (0 decants updated)
+2026-07-06 19:52:31,285  INFO       080160 (Jpg Scandal femme edp decant 10ml): 28,000,000 -> 29,000,000
+2026-07-06 19:52:31,291  INFO       Main [01950003]             N/A ->     208,500,000  (1 decants updated)
+2026-07-06 19:52:31,301  INFO       Main [01950004]             N/A ->     208,500,000  (0 decants updated)
+2026-07-06 19:52:31,396  INFO       080158 (Jpg Le male elixir decant 10ml): 22,000,000 -> 23,000,000
+2026-07-06 19:52:31,486  INFO       080159 (Jpg Le male elixir decant 5ml): 11,500,000 -> 12,000,000
+2026-07-06 19:52:31,593  INFO       080818 (Jpg Le male elixir decant 20ml): 42,500,000 -> 43,500,000
+2026-07-06 19:52:31,598  INFO       Main [01950005]             N/A ->     258,500,000  (3 decants updated)
+2026-07-06 19:52:31,700  INFO       080851 (Trussardi Uomo decant 20ml): 21,000,000 -> 20,500,000
+2026-07-06 19:52:31,707  INFO       Main [01960002]             N/A ->      97,500,000  (1 decants updated)
+2026-07-06 19:52:31,818  INFO       080351 (Trussardi Donna decant 10ml): 13,500,000 -> 14,000,000
+2026-07-06 19:52:31,824  INFO       Main [01960003]             N/A ->     125,000,000  (1 decants updated)
+2026-07-06 19:52:31,930  INFO       080850 (Trussardi Primo edp decant 20ml): 29,500,000 -> 29,000,000
+2026-07-06 19:52:31,935  INFO       Main [01960004]             N/A ->     138,500,000  (1 decants updated)
+2026-07-06 19:52:32,017  INFO       080168 (Kilian Angels share decant 10ml): 77,000,000 -> 80,000,000
+2026-07-06 19:52:32,103  INFO       080169 (Kilian Sngels share decant 5ml): 40,500,000 -> 42,000,000
+2026-07-06 19:52:32,184  INFO       080528 (Kilian Angels share decant 3ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:32,189  INFO       Main [01970002]             N/A ->     726,500,000  (3 decants updated)
+2026-07-06 19:52:32,289  INFO       080292 (Roberto cavalli Uomo decant 10ml): 8,000,000 -> 8,500,000
+2026-07-06 19:52:32,372  INFO       080847 (Roberto cavalli Uomo decant 20ml): 16,000,000 -> 15,500,000
+2026-07-06 19:52:32,377  INFO       Main [01980001]             N/A ->      74,000,000  (2 decants updated)
+2026-07-06 19:52:32,473  INFO       080290 (Roberto cavalli Paradiso decant 10ml): 11,000,000 -> 11,500,000
+2026-07-06 19:52:32,556  INFO       080843 (Roberto cavalli Paradiso decant 20ml): 21,500,000 -> 22,000,000
+2026-07-06 19:52:32,561  INFO       Main [01980002]             N/A ->      78,000,000  (2 decants updated)
+2026-07-06 19:52:32,648  INFO       080288 (Roberto cavalli Nero assoluto decant 10ml): 11,000,000 -> 11,500,000
+2026-07-06 19:52:32,717  INFO       080845 (Roberto cavalli Nero assoluto decant 20ml): 21,500,000 -> 22,000,000
+2026-07-06 19:52:32,723  INFO       Main [01980003]             N/A ->      78,000,000  (2 decants updated)
+2026-07-06 19:52:32,805  INFO       080286 (Roberto cavalli Florence decant 10ml): 11,000,000 -> 11,500,000
+2026-07-06 19:52:32,876  INFO       080846 (Roberto cavalli Florence decant 20ml): 21,500,000 -> 22,000,000
+2026-07-06 19:52:32,881  INFO       Main [01980005]             N/A ->      78,000,000  (2 decants updated)
+2026-07-06 19:52:32,978  INFO       080752 (Roberto cavalli Paradiso azzurro decant 10ml): 11,000,000 -> 11,500,000
+2026-07-06 19:52:33,071  INFO       080844 (Roberto cavalli Paradiso azzurro decant 20ml): 21,500,000 -> 22,000,000
+2026-07-06 19:52:33,079  INFO       Main [01980006]             N/A ->      78,000,000  (2 decants updated)
+2026-07-06 19:52:33,087  INFO       Main [01990002]             N/A ->     372,500,000  (0 decants updated)
+2026-07-06 19:52:33,159  INFO       080355 (Uniquee luxury Akdeniz xdp decant 10ml): 36,000,000 -> 37,000,000
+2026-07-06 19:52:33,236  INFO       080356 (Uniquee luxury Akdeniz xdp decant 5ml): 19,000,000 -> 19,500,000
+2026-07-06 19:52:33,241  INFO       Main [01990003]             N/A ->     333,500,000  (2 decants updated)
+2026-07-06 19:52:33,312  INFO       080029 (Billie eilish No1 decant 10ml): 13,500,000 -> 14,000,000
+2026-07-06 19:52:33,317  INFO       Main [070014]             N/A ->     126,500,000  (1 decants updated)
+2026-07-06 19:52:33,399  INFO       080410 (Essential parfums Bois imperial edp decant 10ml): 37,500,000 -> 35,000,000
+2026-07-06 19:52:33,475  INFO       080411 (Essential parfums Bois imperial edp decant 5ml): 19,500,000 -> 18,500,000
+2026-07-06 19:52:33,549  INFO       080524 (Essential parfums Bois imperial edp decant 3ml): 12,500,000 -> 11,500,000
+2026-07-06 19:52:33,624  INFO       080686 (Essential parfums Bois imperial decant 20ml): 71,500,000 -> 67,000,000
+2026-07-06 19:52:33,629  INFO       Main [070016]             N/A ->     317,500,000  (4 decants updated)
+2026-07-06 19:52:33,705  INFO       080154 (John richmond For men decant 10ml): 8,500,000 -> 9,000,000
+2026-07-06 19:52:33,776  INFO       080860 (John Richmond for men decant 20ml): 17,000,000 -> 16,500,000
+2026-07-06 19:52:33,782  INFO       Main [070022]             N/A ->      78,500,000  (2 decants updated)
+2026-07-06 19:52:33,870  INFO       080564 (Elizabeth arden 5th avenue decant 5ml): 3,000,000 -> 2,500,000
+2026-07-06 19:52:33,943  INFO       080609 (Elizabeth arden 5th avenue decant 20ml): 10,000,000 -> 9,500,000
+2026-07-06 19:52:33,948  INFO       Main [070026]             N/A ->      54,500,000  (2 decants updated)
+2026-07-06 19:52:34,029  INFO       080033 (BOHOBOCO Magic mushrooms decant 10ml): 49,000,000 -> 50,500,000
+2026-07-06 19:52:34,114  INFO       080034 (BOHOBOCO Magic mushrooms decant 5ml): 25,500,000 -> 26,500,000
+2026-07-06 19:52:34,189  INFO       080505 (BOHOBOCO Magic mushrooms decant 3ml): 16,000,000 -> 16,500,000
+2026-07-06 19:52:34,257  INFO       080670 (BOHOBOCO Magic mushrooms decant 20ml): 92,500,000 -> 96,000,000
+2026-07-06 19:52:34,262  INFO       Main [070032]             N/A ->     228,500,000  (4 decants updated)
+2026-07-06 19:52:34,338  INFO       080045 (Britney spears Midnight fantasy decant 10ml): 7,000,000 -> 6,500,000
+2026-07-06 19:52:34,421  INFO       080594 (Britney spears Midnight fantasy decant 20ml): 13,000,000 -> 12,500,000
+2026-07-06 19:52:34,427  INFO       Main [070033]             N/A ->      59,500,000  (2 decants updated)
+2026-07-06 19:52:34,433  INFO     Done. 402 decant price(s) updated total.
+2026-07-06 19:52:34,433  INFO     ============================================================
+2026-07-06 19:55:11,390  INFO     ============================================================
+2026-07-06 19:55:11,391  INFO     Decant price updater started
+2026-07-06 19:55:11,590  INFO     Found 226 main products with decants
+2026-07-06 19:55:11,591  INFO     No price changes detected. Nothing to do.
