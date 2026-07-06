@@ -219,23 +219,31 @@ def run():
                 update_decant_in_db(mssql, decant["item_id"], new_price)
                 updated_count += 1
                 log.info(
-                    f"  {decant['code']} ({decant['title']}): "
-                    f"{decant['current_price']:,.0f} -> {new_price:,.0f}"
+                    f"    {decant['code']} ({decant['title']}): "
+                    f"{decant['current_price']:,.0f} -> {new_price:,.0f}  [UPDATED]"
+                )
+            else:
+                log.info(
+                    f"    {decant['code']} ({decant['title']}): "
+                    f"{decant['current_price']:,.0f}  [NO CHANGE]"
                 )
 
         log_change(local, product["code"], old_price or 0, product["price"], updated_count)
         total_decants_updated += updated_count
 
+        old_str = f"{old_price:>15,.0f}" if old_price else "N/A"
         log.info(
-            f"  Main [{product['code']}] "
-            f"{old_price or 'N/A':>15} -> {product['price']:>15,.0f}  "
+            f"  Main [{product['code']}] {product['title']}  "
+            f"{old_str} -> {product['price']:>15,.0f}  "
             f"({updated_count} decants updated)"
         )
 
     mssql.commit()
     save_snapshot(local, current_products)
 
-    log.info(f"Done. {total_decants_updated} decant price(s) updated total.")
+    log.info("-" * 60)
+    log.info(f"Summary: {len(changed)} main product(s) changed, "
+             f"{total_decants_updated} decant price(s) updated")
     log.info("=" * 60)
 
     mssql.close()

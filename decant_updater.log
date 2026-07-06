@@ -637,3 +637,66 @@
 2026-07-06 19:55:11,391  INFO     Decant price updater started
 2026-07-06 19:55:11,590  INFO     Found 226 main products with decants
 2026-07-06 19:55:11,591  INFO     No price changes detected. Nothing to do.
+2026-07-06 20:45:57,179  INFO     ============================================================
+2026-07-06 20:45:57,180  INFO     Decant price updater started
+2026-07-06 20:45:57,308  INFO     Found 226 main products with decants
+2026-07-06 20:45:57,309  INFO     1 product(s) need decant updates
+2026-07-06 20:45:57,321  INFO       Main [01820001]      66000000.0 ->      76,000,000  (0 decants updated)
+2026-07-06 20:45:57,327  INFO     Done. 0 decant price(s) updated total.
+2026-07-06 20:45:57,328  INFO     ============================================================
+2026-07-06 20:46:30,696  INFO     ============================================================
+2026-07-06 20:46:30,696  INFO     Decant price updater started
+2026-07-06 20:46:30,803  INFO     Found 226 main products with decants
+2026-07-06 20:46:30,804  INFO     No price changes detected. Nothing to do.
+2026-07-06 20:53:37,740  INFO     ============================================================
+2026-07-06 20:53:37,740  INFO     Decant price updater started
+2026-07-06 20:53:37,830  INFO     Found 226 main products with decants
+2026-07-06 20:53:37,831  INFO     1 product(s) need decant updates
+2026-07-06 20:53:37,842  INFO       Main [01820001]      76000000.0 ->      96,000,000  (0 decants updated)
+2026-07-06 20:53:37,848  INFO     Done. 0 decant price(s) updated total.
+2026-07-06 20:53:37,848  INFO     ============================================================
+2026-07-06 21:05:04,010  INFO     ============================================================
+2026-07-06 21:05:04,011  INFO     Decant price updater started
+2026-07-06 21:05:04,106  INFO     Found 226 main products with decants
+2026-07-06 21:05:04,107  INFO     1 product(s) need decant updates
+2026-07-06 21:05:04,118  INFO       Main [01820001] Aigner Starlight edp 100ml       96,000,000 ->      66,000,000  (0 decants updated)
+2026-07-06 21:05:04,124  INFO     ------------------------------------------------------------
+2026-07-06 21:05:04,124  INFO     Summary: 1 main product(s) changed, 0 decant price(s) updated
+2026-07-06 21:05:04,124  INFO     ============================================================
+2026-07-06 21:22:57,534  INFO     ============================================================
+2026-07-06 21:22:57,534  INFO     Decant price updater started
+2026-07-06 21:22:57,633  INFO     Found 226 main products with decants
+2026-07-06 21:22:57,634  INFO     1 product(s) need decant updates
+2026-07-06 21:22:57,643  INFO         080476 (Aigner Starlight edp decant 10ml): 7,500,000  [NO CHANGE]
+2026-07-06 21:22:57,643  INFO         080477 (Aigner Starlight edp decant 5ml): 4,000,000  [NO CHANGE]
+2026-07-06 21:22:57,643  INFO         080582 (Aigner Starlight edp decant 20ml): 14,000,000  [NO CHANGE]
+2026-07-06 21:22:57,652  INFO       Main [01820001] Aigner Starlight edp 100ml       67,000,000 ->      66,000,000  (0 decants updated)
+2026-07-06 21:22:57,658  INFO     ------------------------------------------------------------
+2026-07-06 21:22:57,659  INFO     Summary: 1 main product(s) changed, 0 decant price(s) updated
+2026-07-06 21:22:57,659  INFO     ============================================================
+2026-07-06 21:24:58,760  INFO     ============================================================
+2026-07-06 21:24:58,760  INFO     Decant price updater started
+2026-07-06 21:24:58,853  INFO     Found 226 main products with decants
+2026-07-06 21:24:58,853  INFO     No price changes detected. Nothing to do.
+2026-07-06 21:26:39,219  INFO     ============================================================
+2026-07-06 21:26:39,219  INFO     Decant price updater started
+2026-07-06 21:26:39,312  INFO     Found 226 main products with decants
+2026-07-06 21:26:39,313  INFO     1 product(s) need decant updates
+2026-07-06 21:26:39,319  INFO         080476 (Aigner Starlight edp decant 10ml): 10,500,000  [NO CHANGE]
+2026-07-06 21:26:39,320  INFO         080477 (Aigner Starlight edp decant 5ml): 5,500,000  [NO CHANGE]
+2026-07-06 21:26:39,320  INFO         080582 (Aigner Starlight edp decant 20ml): 20,500,000  [NO CHANGE]
+2026-07-06 21:26:39,325  INFO       Main [01820001] Aigner Starlight edp 100ml       66,000,000 ->      96,000,000  (0 decants updated)
+2026-07-06 21:26:39,330  INFO     ------------------------------------------------------------
+2026-07-06 21:26:39,331  INFO     Summary: 1 main product(s) changed, 0 decant price(s) updated
+2026-07-06 21:26:39,331  INFO     ============================================================
+2026-07-06 21:29:57,704  INFO     ============================================================
+2026-07-06 21:29:57,704  INFO     Decant price updater started
+2026-07-06 21:29:57,795  INFO     Found 226 main products with decants
+2026-07-06 21:29:57,795  INFO     1 product(s) need decant updates
+2026-07-06 21:29:57,802  INFO         080476 (Aigner Starlight edp decant 10ml): 7,500,000  [NO CHANGE]
+2026-07-06 21:29:57,802  INFO         080477 (Aigner Starlight edp decant 5ml): 4,000,000  [NO CHANGE]
+2026-07-06 21:29:57,802  INFO         080582 (Aigner Starlight edp decant 20ml): 14,000,000  [NO CHANGE]
+2026-07-06 21:29:57,807  INFO       Main [01820001] Aigner Starlight edp 100ml       96,000,000 ->      66,000,000  (0 decants updated)
+2026-07-06 21:29:57,812  INFO     ------------------------------------------------------------
+2026-07-06 21:29:57,812  INFO     Summary: 1 main product(s) changed, 0 decant price(s) updated
+2026-07-06 21:29:57,812  INFO     ============================================================
