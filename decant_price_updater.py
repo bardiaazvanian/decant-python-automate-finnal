@@ -93,6 +93,19 @@ def fetch_main_products(conn):
     return products
 
 
+def fetch_mains_with_bad_decants(conn):
+    """Return the set of main product Codes that have at least one decant
+    whose price is NULL or zero. Those perfumes need a full decant recalc."""
+    rows = conn.cursor().execute("""
+        SELECT DISTINCT d.[Description]
+        FROM [POS].[Item] d
+        JOIN [POS].[ItemSalePrice] sp ON sp.[ItemRef] = d.[ItemID]
+        WHERE d.[Description] IS NOT NULL
+          AND (sp.[DefaultPrice] IS NULL OR sp.[DefaultPrice] = 0)
+    """).fetchall()
+    return {desc.strip() for (desc,) in rows if desc and desc.strip()}
+
+
 def fetch_decants(conn, main_code):
     rows = conn.cursor().execute("""
         SELECT i.[ItemID], i.[Code], i.[Title], sp.[DefaultPrice]
@@ -109,7 +122,7 @@ def fetch_decants(conn, main_code):
                 "item_id": item_id,
                 "code": code,
                 "title": title,
-                "current_price": float(price),
+                "current_price": float(price) if price is not None else 0.0,
                 "volume_ml": vol,
             })
     return decants
@@ -190,10 +203,14 @@ def run():
     if is_first_run:
         log.info("First run — calculating all decant prices")
 
+    bad_decant_mains = fetch_mains_with_bad_decants(mssql)
+    if bad_decant_mains:
+        log.info(f"{len(bad_decant_mains)} product(s) have decants with zero/null price — forcing recalc")
+
     changed = []
     for product in current_products:
         old = old_prices.get(product["code"])
-        if is_first_run or old is None or old != product["price"]:
+        if is_first_run or old is None or old != product["price"] or product["code"] in bad_decant_mains:
             changed.append((product, old))
 
     if not changed:
