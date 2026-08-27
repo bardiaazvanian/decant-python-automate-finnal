@@ -1,1 +1,3 @@
-pyodbc
+pyodbc>=5.1.0
+playwright>=1.40.0
+PySocks>=1.7.1
